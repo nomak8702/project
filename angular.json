@@ -52,6 +52,7 @@
               "src/assets"
             ],
             "styles": [
+              "D:\\project\\pizzerie-web\\node_modules\\bulma\\css\\bulma.css",
               "src/styles.scss"
             ],
             "scripts": []
